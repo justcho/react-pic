@@ -4,7 +4,7 @@ function Component() {
   return (
     <>
       <h1>关于</h1>
-      <p>这是我问问我问问玩玩我问问 玩玩 我我我我</p>
+      <p>由React + mobx + antd 写的一个图床上传工具。</p>
     
     </>
   );

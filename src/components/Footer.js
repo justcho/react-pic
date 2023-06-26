@@ -5,13 +5,13 @@ const Footer = styled.footer`
   padding: 10px 100px;
   text-align: center;
   font-size: 12px;
-  color: #fff;
+  color: #000;
 `;
 
 function Component() {
   return (
     <Footer>
-      <p>Footer</p>
+      <p>©2023 JustCho. All rights reserved.</p>
     </Footer>
   );
 }

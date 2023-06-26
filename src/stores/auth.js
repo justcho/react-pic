@@ -1,11 +1,8 @@
-import { observable, action, makeObservable } from "mobx";
+import { observable, action} from "mobx";
 import { Auth } from "../models";
 import UserStore from "./user";
 
 class AuthStore {
-  constructor() {
-    makeObservable(this);
-  }
   @observable isLogin = false;
   @observable isLoading = false;
   @observable values = {

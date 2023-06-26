@@ -73,7 +73,7 @@ const Component = observer(() => {
           to="/about"
           className={({ isActive }) => (isActive ? "active" : "")}
         >
-          关于我
+          关于
         </StyledLink>
       </nav>
       <Login>

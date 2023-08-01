@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_pic=self.webpackChunkreact_pic||[]).push([[964],{4244:function(e,c,n){n.r(c);n(2791);var r=n(184);c.default=function(){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)("h1",{children:"\u5173\u4e8e"}),(0,r.jsx)("p",{children:"\u7531React + mobx + antd \u5199\u7684\u4e00\u4e2a\u56fe\u5e8a\u4e0a\u4f20\u5de5\u5177\u3002"})]})}}}]);
+//# sourceMappingURL=964.10af2d22.chunk.js.map

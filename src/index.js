@@ -15,3 +15,12 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+if (document.documentElement.clientWidth < 500) {
+  window.alert(
+    "请使用电脑打开本页面，以保证浏览效果,点击确定后3秒自动关闭页面"
+  );
+  setTimeout(() => {
+    window.close();
+  }, 3000);
+}
